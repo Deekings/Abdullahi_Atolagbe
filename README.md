@@ -1,60 +1,27 @@
-# # 👋 Hi, I'm Abdullahi Atolagbe Adebayo
+<h1 align="center">👋 Hi there, I'm Abdullahi Atolagbe Adebayo</h1>
 
-## 🧑‍💻 Software Engineer | Backend Developer | Python & Django Enthusiast
-
-🎓 B.Sc. Computer Science, Bayero University, Kano (2023)  
-📍 Based in Nigeria | 🌍 Passionate about building tech solutions for global impact
-
----
-
-### 🚀 About Me
-
-I'm a **results-driven software engineer** with a strong foundation in **Python**, **Django**, and **API development**, specializing in **health-tech solutions** and **data-driven applications**. With a keen eye for solving real-world problems, I love turning ideas into impactful, scalable software.
-
-🔧 Currently working on:
-- Enhancing my **Clinic Management System** project
-- Developing an **antenatal/postnatal mobile health app** for rural Nigerian communities
-- Contributing to open-source projects and learning **DevOps practices**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Python+Django+Dev;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🙋‍♂️ About Me
 
-- **Languages:** Python, JavaScript, HTML/CSS, Bash
-- **Frameworks:** Django, FastAPI, Flask, React (beginner)
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Platforms:** Git, Docker, GitHub Actions, Heroku, Linux
-- **Others:** REST APIs, JWT Auth, Celery, Redis, CI/CD
-
----
-
-### 📂 Featured Projects
-
-#### 🏥 [Clinic Management System](https://github.com/Deekings/Clinic-Management-System)
-> A Django-based hospital management app with patient records, appointments, billing, and admin control.
-
-#### 📱 Antenatal/Postnatal Care App *(In Progress)*
-> A mobile-first solution for maternal health education and appointment tracking in rural areas.
-
-#### 🧾 [Invoice Generator](https://github.com/Deekings/invoice-generator)
-> A simple Python tool to generate downloadable PDF invoices for small businesses.
+🚀 I'm a **Backend Software Engineer** and a proud learner with **ALX Africa's Software Engineering Program**.  
+💡 I'm deeply passionate about designing **scalable systems** and building projects that create meaningful impact.  
+🔥 What inspires me? Tackling **complex challenges**, contributing to **open-source**, and being part of **transformational teams**.  
+🎯 My goal: Evolve from contributing to leading and ultimately becoming a **domain expert** in software engineering.
 
 ---
 
-### 📈 GitHub Stats
+## 🧰 Tech Toolbox
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekings&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekings&layout=compact&theme=radical)
-
----
-
-### 📫 Let's Connect
-
-- **Email:** [adeking6000@gmail.com](mailto:adeking6000@gmail.com)
-- **LinkedIn:** [Abdullahi Atolagbe](https://www.linkedin.com/in/abdullahi-atolagbe/)
-- **Portfolio (Coming soon)**
-
----
-
-> “Tech is only useful when it solves real problems for real people.”
-
+```html
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
